@@ -16,6 +16,9 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+.. image:: /img/logo_intence.png
+   :width: 10 em
 
 Contents
 --------
