@@ -13,11 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    
-.. note::
-
-   This project is under active development.
-   
-.. image:: img/logo_intence.png
+.. image:: img/logo_intence.jpg
    :width: 10 em
 
 Contents
