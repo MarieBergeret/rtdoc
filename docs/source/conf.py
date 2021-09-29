@@ -5,6 +5,7 @@
 project = 'Crédit forfait'
 copyright = '2021, Intence'
 author = 'Intence'
+html_logo = "img/logo_intence.jpg"
 
 release = '1.0'
 version = '1.0'
